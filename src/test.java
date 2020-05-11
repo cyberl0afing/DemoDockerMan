@@ -1,0 +1,1 @@
+//curl -v -XPOST --unix-socket /var/run/docker.sock -d '{"Image":"ubuntu"}' -H "Content-Type: application/json" http://localhost/containers/create
